@@ -1,0 +1,60 @@
+:root {
+  /*  Black Crow color scheme */
+  --bc-smoky-black: #100c08;
+  --bc-eerie-black: #1b1b1b;
+  --bc-raisin-black: #212121;
+
+  /* Raisin Black color scheme */
+  --rb-chinese-black: #131213;
+  --rb-raisin-black: #242124;
+  --rb-eerie-black__variant-1: #1b191b;
+
+  /* Black Shadow color scheme*/
+  --bs-black-olive: #3d3d3d;
+  --bs-charleston-green: #2b2b2b;
+  --bs-smoky-black: var(--bc-smoky-black);
+  --bs-eerie-black: var(--bc-eerie-black);
+
+  /*  Black Emperor color scheme */
+  --bemp-black: #000000;
+  --bemp-dark-charcoal: #333333;
+  --bemp-philippine-silver: #b8b8b8;
+  --bemp-eerie-black: var(--eerie-black);
+
+  /* Black Cobra color scheme */
+  --bcob-vampire-black: #080808;
+  --bcob-dark-charcoal: #333333;
+  --bcob-dark-charcoal: #2f2f2f;
+  --bcob-eerie-black: var(--eerie-black);
+
+  /*  material black #1 */
+  --matb-eerie-black: #191919;
+  --matb-smoky-black: #0d0d0d;
+  --matb-vampire-black: #070707;
+  --matb-chinese-black: #111111;
+  --matb-chinese-black: #161616;
+
+  /* Real Black Mamba color scheme */
+  --rbm-black-olive: #3b3c36;
+  --rbm-vampire-black: var(--bcob-vampire-black);
+  --rbm-charleston-green: var(--bs-charleston-green);
+
+  /* Flat Black color scheme */
+  --flb-dark-liver: #4d4d4d;
+  --flb-raisin-black: #262626;
+
+  /*  Material Black #2 color scheme */
+  --mab-vampire-black: #0a0a0a;
+  --mab-chinese-black: #101010;
+  --mab-eerie-black: var(--bc-eerie-black);
+  --mab-raisin-black: var(--flb-raisin-black);
+
+  /*  Dull Black color scheme */
+  --db-black-chocolate: #1a1915;
+  --db-smoky-black: var(--bc-smoky-black);
+  --db-chinese-black: var(--rb-chinese-black);
+
+  /*  Matte Black color scheme */
+  --matte-chinese-black: #141414;
+  --matte-eerie-black: var(--bc-eerie-black);
+}
